@@ -1,0 +1,2 @@
+# EXTRACAO_MINERACAO_DE_DADOS
+Regressão Linear
